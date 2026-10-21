@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+# db.sqlite3 se incluye a propósito: es parte de la entrega
